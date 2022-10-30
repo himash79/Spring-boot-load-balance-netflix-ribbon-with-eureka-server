@@ -1,0 +1,8 @@
+============== Spring Cloud Ribbon =================
+01) Its a load balalncer of requests.
+02) Its utilze server instaces sequental manner.
+====================================================
+01) Configure the Eureka server (Higher server).
+02) Configure the Consumer-one server.
+03) Configure the Consumer-two server.
+04) Expose the Consumer-two endpoints.
